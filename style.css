@@ -1,0 +1,8 @@
+h1 {
+    background: deepskyblue !important; 
+    width: 1000px !important;
+}
+
+body {
+    background: radial-gradient(deepskyblue, hotpink);
+}
